@@ -1,0 +1,6 @@
+FlowCategory,FDCBand,QFrom,QTo
+Wet,Q<10,0,10
+Mod_Wet,Q11-40,10,40
+Normal,Q35-70,35,70
+Mod_Dry,Q65-90,65,90
+Dry,Q90-99,90,99
