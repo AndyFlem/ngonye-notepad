@@ -1,6 +1,6 @@
-﻿Section,Recommendation 1,All Cs,All Bs
-A,B,C,B
-C,B,C,B
-D,B,C,B
-E,B,C,B
-FG,C,C,B
+﻿Section,Recommendation 1,All Cs,All Bs,All As
+A,B,C,B,A
+C,B,C,B,A
+D,B,C,B,A
+E,B,C,B,A
+FG,C,C,B,A
