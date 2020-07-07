@@ -1,0 +1,65 @@
+{
+    "name": "catchments",
+    "children": [
+        {
+            "name": "Angola",
+            "children": [
+                {
+                    "name": "Upper Zambezi",
+                    "area":  81044,
+                    "runoff": 19040
+                },
+                {
+                    "name": "Kabompo",
+                    "area":  1639,
+                    "runoff": 196
+                },
+                {
+                    "name": "Lungwebungu",
+                    "area":  37003,
+                    "runoff": 3208
+                },
+                {
+                    "name": "Luanginga",
+                    "area":  25187,
+                    "runoff": 1307
+                },
+                {
+                    "name": "Upper Barotse",
+                    "area":  1873,
+                    "runoff": 0
+                }                                                               
+            ]
+        },
+        {
+            "name": "Zambia",
+            "children": [
+                {
+                    "name": "Upper Zambezi",
+                    "area":  18473,
+                    "runoff": 4340
+                },
+                {
+                    "name": "Kabompo",
+                    "area":  70541,
+                    "runoff": 8419
+                },
+                {
+                    "name": "Lungwebungu",
+                    "area":  4376,
+                    "runoff": 379
+                },
+                {
+                    "name": "Luanginga",
+                    "area":  16984,
+                    "runoff": 882
+                },
+                {
+                    "name": "Upper Barotse",
+                    "area":  58177,
+                    "runoff": 0
+                }                                                               
+            ]
+        }        
+    ]
+}
