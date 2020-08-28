@@ -1,6 +1,6 @@
-ModelName,OutputPrefix,Description,EWRCatSet,HeadpondLift,Capacity,FixedTailwater,Mean,P95,P90,P75,P50,P25,P10,P5,StDev,CoefVar,Max,Min,CapFactor,CalYearMean,CalYearStDev,CalYearCoefVar,AutoCorrel,Power_max,CapFactor_Power_max
-Base Case,base,Base Case,Recommendation 1,0.0,180,0,832484.2481867719,718504.4353064356,756610.1338770951,792216.1229578069,838164.5791294983,876248.25314342,921914.6890414895,958252.9067786763,81971.20769583028,0.0984657762286448,1018971.1326182806,493939.1830730327,0.5279580467952638,832586.7183378923,78237.15475241077,0.09396877589952071,,193.90840486585117,0.49014969719716966
-Fixed Tailwater,fixedtail,Tailwater level remains fixed at 970m,Recommendation 1,0.0,180,970,,,,,,,,,,,,,,,,,,,
-MW162,mw162,Capacity reduced to 162MW,Recommendation 1,0.0,162,0,,,,,,,,,,,,,,,,,,,
-Headpond50cm,head50,Headpond level increased by 50cm,Recommendation 1,0.5,180,0,,,,,,,,,,,,,,,,,,,
-EWRAllCs,allcs,All river reaches at a C rather than B environmental assurance level,All Cs,0.0,180,0,,,,,,,,,,,,,,,,,,,
+ModelName,OutputPrefix,Description,EWRCatSet,HeadpondLift,Capacity,FixedTailwater,UnitsAvailable,Mean,P95,P90,P75,P50,P25,P10,P5,StDev,CoefVar,Max,Min,CapFactor,CalYearMean,CalYearStDev,CalYearCoefVar,AutoCorrel,Power_max,CapFactor_Power_max
+Base Case,base,Base Case,Recommendation 1,0,180,0,4,832484.2482,718504.4353,756610.1339,792216.123,838164.5791,876248.2531,921914.689,958252.9068,81971.2077,0.098465776,1018971.133,493939.1831,0.527958047,832586.7183,78237.15475,0.093968776,,193.9084049,0.490149697
+Fixed Tailwater,fixedtail,Tailwater level remains fixed at 970m,Recommendation 1,0,180,970,4,,,,,,,,,,,,,,,,,,,
+MW162,mw162,Capacity reduced to 162MW,Recommendation 1,0,162,0,4,,,,,,,,,,,,,,,,,,,
+Headpond50cm,head50,Headpond level increased by 50cm,Recommendation 1,0.5,180,0,4,,,,,,,,,,,,,,,,,,,
+EWRAllCs,allcs,All river reaches at a C rather than B environmental assurance level,All Cs,0,180,0,4,,,,,,,,,,,,,,,,,,,
