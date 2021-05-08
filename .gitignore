@@ -1,4 +1,5 @@
 .vscode/
 .ipynb_checkpoints/
 /output_data/CC/large/
+/sapp/node_modules
 /sapp/monthly
