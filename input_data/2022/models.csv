@@ -1,0 +1,7 @@
+ModelName,OutputPrefix,Description,EWRCatSet,HeadpondLift,Capacity,MinimumHead,MinimumFlowUnit,FixedTailwater,UnitsAvailable,RatedDischarge,RatedHead,RatedTurbineEfficiency,RatedGeneratorEfficiency,MaximumLoadFactor,RatedPower,Mean,P95,P90,P75,P50,P25,P10,P5,StDev,CoefVar,Max,Min,CapFactor,CalYearMean,CalYearStDev,CalYearCoefVar,AutoCorrel,Power_max,CapFactor_Power_max,Power_Turbine1_max
+Base Case,base,Base Case,Recommendation 1,0.0,180,10,50,0,4,250,21.7,0.943,0.98,1.1,49.182037695,838164.9686430057,719610.8016525987,757121.7984928484,796138.1210720707,843033.897521401,878919.4178546162,929634.448979628,965887.480223072,81869.89849726959,0.09767754745204571,1027123.7177807398,506193.73569407075,0.5315607360749656,838337.5942864834,77251.22238296298,0.09214810705073079,,194.04487954898042,0.4931881678074473,60.890661127323725
+Fixed Tailwater,fixedtail,Tailwater level remains fixed at 970m,Recommendation 1,0.0,180,10,50,970,4,250,21.7,0.943,0.98,1.1,,,,,,,,,,,,,,,,,,,,,
+MW162,mw162,Capacity reduced to 162MW,Recommendation 1,0.0,162,10,45,0,4,225,21.7,0.943,0.98,1.1,,,,,,,,,,,,,,,,,,,,,
+Headpond50cm,head50,Headpond level increased by 50cm,Recommendation 1,0.5,180,10,50,0,4,250,21.7,0.943,0.98,1.1,,,,,,,,,,,,,,,,,,,,,
+EWRAllCs,allcs,All river reaches at a C rather than B environmental assurance level,All Cs,0.0,180,10,50,0,4,250,21.7,0.943,0.98,1.1,,,,,,,,,,,,,,,,,,,,,
+Extend Head,extendhead,Minimum head reduce from 10m to 9m,Recommendation 1,0.0,180,9,50,0,4,250,21.7,0.943,0.98,1.1,,,,,,,,,,,,,,,,,,,,,
