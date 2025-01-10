@@ -1,0 +1,13 @@
+ModelName,OutputPrefix,Description,EWRCatSet,TailwaterLift,HeadpondLift,Capacity,MinimumHead,MinimumFlowUnit,FixedTailwater,UnitsAvailable,RatedDischarge,RatedHead,RatedTurbineEfficiency,RatedGeneratorEfficiency,MaximumLoadFactor,OptimiseTurbines,RatedPower,Mean,P95,P90,P75,P50,P25,P10,P5,StDev,CoefVar,Max,Min,CapFactor,CalYearMean,CalYearStDev,CalYearCoefVar,AutoCorrel,Power_max,CapFactor_Power_max,Power_Turbine1_max,P95FirmPower,P90FirmPower
+Base Case,base,Base Case,Recommendation 1,0.0,0.0,180,10,50,0,4,250,21.7,0.943,0.98,1.1,0,49.182037695,842358.8787650838,704627.0995278519,757469.585218455,802552.1392641583,847227.8196992612,888365.5426286983,933744.4616906297,972221.72867433,82941.59324646268,0.09846348787592389,1033635.9476626,510463.31885683746,0.5342204964263596,844253.6975112153,77098.95558304682,0.09132202300129412,,195.02549915508217,0.49417124060244005,60.65614094495831,25.4192500076738,29.887021374193328
+MW162,mw162,Capacity reduced to 162MW,Recommendation 1,0.0,0.0,162,10,45,0,4,225,21.7,0.943,0.98,1.1,0,,,,,,,,,,,,,,,,,,,,,,,
+Headpond50cm,head50,Headpond level increased by 50cm,Recommendation 1,0.0,0.5,180,10,50,0,4,250,21.7,0.943,0.98,1.1,0,,,,,,,,,,,,,,,,,,,,,,,
+EWRAllCs,allcs,All river reaches at a C rather than B environmental assurance level,All Cs,0.0,0.0,180,10,50,0,4,250,21.7,0.943,0.98,1.1,0,,,,,,,,,,,,,,,,,,,,,,,
+Extend Head,extendhead,Minimum head reduce from 10m to 9m,Recommendation 1,0.0,0.0,180,9,50,0,4,250,21.7,0.943,0.98,1.1,0,,,,,,,,,,,,,,,,,,,,,,,
+Tailwater Rise 50cm,tailup50,Tailwater curve raised by 50cm,Recommendation 1,0.5,0.0,180,10,50,0,4,250,21.7,0.943,0.98,1.1,0,,,,,,,,,,,,,,,,,,,,,,,
+Tailwater Fall 50cm,taildown50,Tailwater curve dropped by 50cm,Recommendation 1,-0.5,0.0,180,10,50,0,4,250,21.7,0.943,0.98,1.1,0,,,,,,,,,,,,,,,,,,,,,,,
+BaseOptimise,base_optimise,Base Case with turbine optimisation,Recommendation 1,0.0,0.0,180,10,50,0,4,250,21.7,0.943,0.98,1.1,1,,,,,,,,,,,,,,,,,,,,,,,
+MW225,mw225,Capacity increased to 225MW,Recommendation 1,0.0,0.0,225,10,50,0,5,250,21.7,0.943,0.98,1.1,0,,,,,,,,,,,,,,,,,,,,,,,
+MW270,mw270,Capacity increased to 270MW,Recommendation 1,0.0,0.0,270,10,50,0,6,250,21.7,0.943,0.98,1.1,0,,,,,,,,,,,,,,,,,,,,,,,
+MW315,mw315,Capacity increased to 315MW,Recommendation 1,0.0,0.0,315,10,50,0,7,250,21.7,0.943,0.98,1.1,0,,,,,,,,,,,,,,,,,,,,,,,
+MW360,mw360,Capacity increased to 360MW,Recommendation 1,0.0,0.0,360,10,50,0,8,250,21.7,0.943,0.98,1.1,0,,,,,,,,,,,,,,,,,,,,,,,
